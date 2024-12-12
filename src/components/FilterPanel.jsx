@@ -25,7 +25,7 @@ const FilterPanel = () => {
                           variant="clearable"
                         >
                           {filter}
-                          </Badge>
+                        </Badge>
                       ))}
                   </Stack>
 
